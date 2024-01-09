@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "adyen-3ds2-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Adyen/adyen-3ds2-ios",
+      "state" : {
+        "revision" : "47f657579332c9d36cedd97a0d3487af2cd6d27d",
+        "version" : "2.3.3"
+      }
+    },
+    {
+      "identity" : "adyen-authentication-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Adyen/adyen-authentication-ios",
+      "state" : {
+        "revision" : "220582cd839234587ff79037955b09db887a10d9",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "adyen-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Adyen/adyen-ios",
+      "state" : {
+        "revision" : "99cb084ade968562bdb73765617879f0661bd952",
+        "version" : "5.5.0"
+      }
+    },
+    {
+      "identity" : "adyen-networking-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Adyen/adyen-networking-ios",
+      "state" : {
+        "revision" : "47b566e8ef612c80dc854c0f13cb6b91ba79a80b",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "adyen-wechatpay-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Adyen/adyen-wechatpay-ios",
+      "state" : {
+        "revision" : "aee9b422f02d3ff75533a3338db45f2f9b9010b0",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "cash-app-pay-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cashapp/cash-app-pay-ios-sdk",
+      "state" : {
+        "revision" : "cb3c4179ca46d62cb2fb427532a71299be664c97",
+        "version" : "0.5.1"
+      }
+    },
+    {
+      "identity" : "swiftgenplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftGen/SwiftGenPlugin.git",
+      "state" : {
+        "revision" : "879b85a470cacd70c19e22eb7e11a3aed66f4068",
+        "version" : "6.6.2"
+      }
+    }
+  ],
+  "version" : 2
+}
